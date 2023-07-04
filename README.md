@@ -1,15 +1,11 @@
 
 # 《YaSuoPush》简介：
-这是一个完全有Java语言编写的推箱子小游戏
+这是一个完全由Java语言编写的推箱子小游戏
 运用键盘可以操控小亚索推动箱子，将箱子推到洞口即可成功。
 目前推出第一个版本。
 期待后期更新更丰富的内容和界面ui设计，
 以及更多的功能和互交体验！
-***
-# 运行画面：
-![enter image description here]()
-![enter image description here]()
-![enter image description here]()
+
 ***
 # 版权：
 1. 代码内容采用Apache License 2.0许可证。
